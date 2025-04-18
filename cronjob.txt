@@ -1,0 +1,1 @@
+0 0 * * * /c/Users/azhag/Documents/taskroundfiles/backup.sh >> /var/log/backup.log 2>&1
